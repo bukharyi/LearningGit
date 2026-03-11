@@ -10,3 +10,5 @@ this is changes from my local laptop2
 
 20260309-1:31PM - changes from my laptop in front of the class.
 
+20260311-1:30PM - Tukar ayat di README
+
