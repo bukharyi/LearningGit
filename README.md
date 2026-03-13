@@ -12,3 +12,5 @@ this is changes from my local laptop2
 
 20260311-1:30PM - Tukar ayat di README
 
+29260313-9:07AM - Friday class - from online class
+
